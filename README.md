@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Najib</h1>
 <h3 align="center">A passionate Back-end Developer, have a deep understanding of Linux system administration and cloud environments.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/animated-chock-coding-c78f6elj32sfoi8q.html?embed=true" >
+<img align="right" alt="Coding" width="400" src="https://media.gifdb.com/animated-chock-coding-c78f6elj32sfoi8q.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siihasann&label=Profile%20views&color=0e75b6&style=flat" alt="siihasann" /> </p>
 
