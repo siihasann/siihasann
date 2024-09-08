@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siihasann" alt="siihasann" /></a> </p>
 
-- 🔭 I’m currently working on I’m currently working on Barong a web application for managing and selling recyclable goods, utilizing Nuxt.js and Vue.js for the frontend and Supabase with Prisma ORM for the backend.(barongsolo.com)
+- 🔭 I’m currently working on I’m currently working on Barong a web application for managing and selling recyclable goods, utilizing Nuxt.js and Vue.js for the frontend and Supabase with Prisma ORM for the backend. [barongsolo.com](barongsolo.com)
 
 - 🌱 I’m currently learning **I am deepening the latest Back-end development and learn advanced TypeScript, as well as dive deeper into Linux system administrators and cloud infrastructure.**
 
