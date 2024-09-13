@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mashasanr@gmail.com**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [link]([(https://drive.google.com/file/d/1-nw2VL9rBUFMqevYSJtKfY1k6QwZvAEW/view?usp=sharing)])
 
 - ⚡ Fun fact **I love experimenting and learning new things.**
 
