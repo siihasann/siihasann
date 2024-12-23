@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [portofolio-hasan.vercel.app](portofolio-hasan.vercel.app)
 
-- 💬 Ask me about **Nuxt.js, Laravel, Linux System Administrator**
+- 💬 Ask me about **Laravel, Laravel Livewire/Filament/VueJs, Laravel Restfull API, Swagger Documentation Api/Postman, Unit Testing, Nuxt.js, Linux System Administrator**
 
 - 📫 How to reach me **mashasanr@gmail.com**
 
