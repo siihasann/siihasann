@@ -118,13 +118,9 @@ mashasanr@gmail.com
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=siihasann&show_icons=true&theme=transparent&hide_border=true"
-    height="170"
-  />
+  <img height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=siihasann&show_icons=true&theme=transparent&hide_border=true"/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siihasann&layout=compact&theme=transparent&hide_border=true"
-    height="170"
-  />
+  <img height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=siihasann&layout=compact&theme=transparent&hide_border=true"/>
 </p>
