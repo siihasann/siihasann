@@ -1,126 +1,105 @@
-<h1 align="center">
-Hi, I'm Hasan Najib 👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend-Focused Full Stack Developer crafting modern web applications with Next.js, React, Laravel & TypeScript.
-</h3>
+# Hasan Najib
 
-<p align="center">
-Building scalable products • Clean UI • Great Developer Experience
-</p>
+**Frontend-Focused Full Stack Developer**
 
----
+*Crafting modern web applications with Next.js, React, Laravel & TypeScript*
 
-## 👨‍💻 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portofolio-hasan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/...)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mashasanr@gmail.com)
 
-I'm a **Frontend-focused Full Stack Developer** with over **2 years of professional experience** building modern web applications for international clients.
-
-Currently working at **Crackin'Code Studio**, I develop scalable applications using **Next.js, React, Laravel, Vue.js, PostgreSQL, Prisma, and Tailwind CSS**, while also handling deployment and server management.
-
-I enjoy turning complex business requirements into fast, maintainable, and beautiful user experiences.
+</div>
 
 ---
 
-## 🚀 What I Do
+## About Me
 
-- ⚡ Build modern web applications with Next.js & React
-- 🎨 Transform Figma designs into pixel-perfect interfaces
-- 🔧 Develop scalable backend systems using Laravel & Node.js
-- 🗄️ Design relational databases with PostgreSQL & Prisma
-- ☁️ Deploy production applications to VPS & Cloud
-- 🤖 Leverage AI tools (Cursor, Claude & Codex) to accelerate development
+Frontend-focused Full Stack Developer with **2+ years of professional experience** building modern web applications for international clients.
+
+Currently at **Crackin'Code Studio**, I develop scalable applications across the full stack — from pixel-perfect UIs to production server deployments. I enjoy turning complex business requirements into fast, maintainable, and beautiful user experiences.
 
 ---
 
-## 🛠 Tech Stack
+## What I Do
 
-### Frontend
-
-Next.js • React • Vue.js • TypeScript • JavaScript • Tailwind CSS • Shadcn UI
-
-### Backend
-
-Laravel • Node.js • Express.js • NestJS • REST API
-
-### Database
-
-PostgreSQL • MySQL • Supabase • Prisma ORM
-
-### DevOps
-
-NGINX • PM2 • Docker • DigitalOcean • AWS EC2 • Cloudflare • GitHub Actions
-
-### Tools
-
-Git • GitHub • GitLab • Figma • Postman • Cursor • Claude • VS Code
+| Area | Focus |
+|------|-------|
+| 🖥 **Frontend** | Next.js & React apps, Figma-to-code with Tailwind CSS |
+| ⚙️ **Backend** | REST APIs with Laravel & Node.js |
+| 🗄 **Database** | Relational schemas with PostgreSQL & Prisma |
+| ☁️ **DevOps** | VPS & cloud deployments (DigitalOcean, AWS) |
+| 🤖 **AI-Assisted Dev** | Cursor, Claude & Codex for accelerated development |
 
 ---
 
-## 💼 Current Experience
+## Tech Stack
 
-### Full Stack Developer
-**Crackin'Code Studio**
-*Jan 2025 — Present*
+**Frontend**
+`Next.js` `React` `Vue.js` `TypeScript` `JavaScript` `Tailwind CSS` `Shadcn UI`
 
-- Develop web applications for international clients
-- Build scalable frontend using Next.js & React
-- Design backend APIs using Laravel & Node.js
-- Deploy and manage production servers
-- Collaborate with cross-functional teams using Agile
+**Backend**
+`Laravel` `Node.js` `Express.js` `NestJS` `REST API`
 
----
+**Database**
+`PostgreSQL` `MySQL` `Supabase` `Prisma ORM`
 
-## ⭐ Featured Projects
+**DevOps**
+`NGINX` `PM2` `Docker` `DigitalOcean` `AWS EC2` `Cloudflare` `GitHub Actions`
 
-### 🌱 Barong
-
-A digital marketplace connecting communities with local recyclable waste collectors.
-
-**Tech Stack**
-
-Nuxt.js • Vue.js • TypeScript • PostgreSQL • Prisma • Supabase
-
-https://barongsolo.com
+**Tools**
+`Git` `GitHub` `GitLab` `Figma` `Postman` `Cursor` `VS Code`
 
 ---
 
-### 🏢 Company Profile & CMS
+## Experience
 
-Developed multiple company profile websites integrated with Headless CMS such as Payload CMS, Strapi, and Sanity, enabling non-technical teams to manage website content independently.
+### Full Stack Developer — [Crackin'Code Studio](https://crackincode.studio)
+`Jan 2025 – Present`
 
----
-
-### 📅 Reserv-App
-
-Reservation Management System
-
-Laravel • Filament • Livewire • MySQL • Docker
-
----
-
-## 🌎 Portfolio
-
-Portfolio
-
-https://portofolio-hasan.vercel.app
-
-LinkedIn
-
-https://linkedin.com/in/...
-
-Email
-
-mashasanr@gmail.com
+- Develop web applications for international clients end-to-end
+- Build scalable frontends with Next.js & React
+- Design and maintain backend APIs using Laravel & Node.js
+- Deploy and manage production servers on VPS & cloud
+- Collaborate with cross-functional teams in an Agile workflow
 
 ---
 
-## 📈 GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=siihasann&show_icons=true&theme=transparent&hide_border=true"/>
+### 🌱 Barong — Digital Waste Marketplace
+> A digital marketplace connecting communities with local recyclable waste collectors.
 
-  <img height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/username=siihasann&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+`Nuxt.js` `Vue.js` `TypeScript` `PostgreSQL` `Prisma` `Supabase`
+
+🔗 [barongsolo.com](https://barongsolo.com)
+
+---
+
+### 🏢 Company Profile & Headless CMS Integrations
+> Multiple company profile websites integrated with Payload CMS, Strapi, and Sanity — enabling non-technical teams to independently manage content.
+
+---
+
+### 📅 Reserv-App — Reservation Management System
+> A full-featured reservation system built for efficient scheduling and management.
+
+`Laravel` `Filament` `Livewire` `MySQL` `Docker`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=siihasann&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=siihasann&layout=compact&theme=transparent&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+*Open to freelance projects and full-time opportunities*
+
+</div>
